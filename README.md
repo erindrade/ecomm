@@ -32,17 +32,18 @@ Redux Toolkit: A state management library for predictable state containers in Ja
 
 Firebase: A platform providing various backend services, including real-time database and authentication.
 
+
 # Getting Started
 
 Installation
 
 1. Clone the repository:
 
-   git clone https://github.com/erindrade/vocabmaster.git
+   git clone https://github.com/erindrade/ecomm.git
 
 2.Navigate to the project directory:
 
-cd vocabmaster
+cd ecomm
 
 3.Install dependencies:
 
@@ -50,13 +51,6 @@ npm install @reduxjs/toolkit
 
 npm install @mui/material @emotion/react @emotion/styled
 
-4.Running the Application
-
-  -Start the development server:
-
-npm start
-
-Visit http://localhost:3000 in your web browser to access the VocabMaster application.
 
 # Firebase Configuration
 
